@@ -89,5 +89,7 @@ Applied logics
 Tech Stack
 ----------
 ➔ Language: Python3 
+
 ➔ MPP Computing Engine : Spark
+
 ➔ Services: AWS S3 , AWS Glue , AWS Athena , IAM - User, Roles, Policies
