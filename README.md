@@ -72,7 +72,7 @@ Data Analysis
 --------------
 Applied logics
 --------------
---> Reading and writing data to S3
+--> Reading and writing data from/to S3
 
 --> Grouping and aggregations
 
